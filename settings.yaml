@@ -3,3 +3,7 @@ enabled: true
 
 # jquery plugin priority
 priority: 80
+
+# place to load
+load_on_site: true
+load_on_admin: true

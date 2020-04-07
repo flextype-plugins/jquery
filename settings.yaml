@@ -2,7 +2,7 @@
 enabled: true
 
 # jquery plugin priority
-priority: 80
+priority: 100
 
 # place to load
 load_on_site: true

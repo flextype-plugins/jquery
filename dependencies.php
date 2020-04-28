@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /**
- * @link http://digital.flextype.org
+ * @link https://flextype.org
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
@@ -16,10 +16,10 @@ $_site_js  = ($flextype['registry']->has('assets.site.js')) ? $flextype['registr
 
 if ($flextype['registry']->get('plugins.jquery.settings.load_on_admin')) {
     $flextype['registry']->set('assets.admin.js',
-                           array_merge($_admin_js, ['site/plugins/jquery/assets/dist/js/jquery.min.js']));
+                           array_merge($_admin_js, ['project/plugins/jquery/assets/dist/js/jquery.min.js']));
 }
 
 if ($flextype['registry']->get('plugins.jquery.settings.load_on_site')) {
     $flextype['registry']->set('assets.site.js',
-                          array_merge($_site_js, ['site/plugins/jquery/assets/dist/js/jquery.min.js']));
+                          array_merge($_site_js, ['project/plugins/jquery/assets/dist/js/jquery.min.js']));
 }

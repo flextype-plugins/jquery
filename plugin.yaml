@@ -5,7 +5,7 @@ icon: fab fa-js-square
 author:
   name: Sergey Romanenko
   email: support@flextype.org
-  url: http://flextype.org
+  url: https://flextype.org
 homepage: https://github.com/flextype-plugins/jquery
 bugs: https://github.com/flextype-plugins/jquery/issues
 license: MIT

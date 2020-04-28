@@ -6,7 +6,7 @@ gulp.task('jquery', function(){
 });
 
 /**
- * Task: gulp jquery
+ * Task: gulp default
  */
 gulp.task('default', gulp.series(
     'jquery'

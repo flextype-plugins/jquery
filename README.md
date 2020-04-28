@@ -20,7 +20,7 @@ The following dependencies need to be installed for jQuery Plugin.
 2. Create new folder `/project/plugins/jquery`
 3. Download jQuery Plugin and unzip plugin content to the folder `/project/plugins/jquery`
 
-### Settings
+## Settings
 
 | Key | Value | Description |
 |---|---|---|

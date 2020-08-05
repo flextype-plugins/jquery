@@ -9,7 +9,7 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace Flextype;
+namespace Flextype\Plugin\Jquery;
 
 $_admin_js = ($flextype['registry']->has('assets.admin.js')) ? $flextype['registry']->get('assets.admin.js') : [];
 $_site_js  = ($flextype['registry']->has('assets.site.js')) ? $flextype['registry']->get('assets.site.js') : [];

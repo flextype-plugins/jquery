@@ -1,5 +1,5 @@
 name: jQuery
-version: 1.0.2
+version: 1.1.0
 description: jQuery plugin for Flextype.
 icon: fab fa-js-square
 author:
@@ -11,4 +11,4 @@ bugs: https://github.com/flextype-plugins/jquery/issues
 license: MIT
 
 dependencies:
-  flextype: 0.9.8
+  flextype: 0.9.9

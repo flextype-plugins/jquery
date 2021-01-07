@@ -23,7 +23,7 @@ The following dependencies need to be installed for jQuery Plugin.
 | Key | Value | Description |
 |---|---|---|
 | enabled | true | true or false to disable the plugin |
-| priority | 100 | jquery plugin priority |
+| priority | 1 | jquery plugin priority |
 | load_on_site | true | place to load on Website Frontend |
 | load_on_admin | true | place to load on Admin Panel Backend |
 

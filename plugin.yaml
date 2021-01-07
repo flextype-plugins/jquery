@@ -1,7 +1,9 @@
 name: jQuery
-version: 1.7.0
+version: 1.8.0
 description: jQuery plugin for Flextype.
-icon: fab fa-js-square
+icon:
+  name: js-square
+  set: "fontawesome|brands"
 author:
   name: Sergey Romanenko
   email: support@flextype.org
